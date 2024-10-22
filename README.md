@@ -9,6 +9,7 @@ Overall, this page is a blend of style and usability, perfect for a great online
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [screenshots](#screenshots)
 - [Credits](#credits)
 
 
@@ -24,6 +25,16 @@ Follow these steps to set up the online shopping page locally:
 
 Usage
 Once you have the page open in your browser, you can browse the products, view details, and interact with the contact form.
+
+## Screenshots
+Here’s a glimpse of the online shop in action:
+
+![Product Display](screenshot1.png)  
+*This screenshot shows the product display with hover effects.*
+
+![Contact Form](screenshot2.png)  
+*This screenshot shows the contact form at the bottom of the page.*
+
 
 Credits
 This project was created by Emaan Isaacs Waggie using Bootstrap and CSS. All design and coding were done independently.
