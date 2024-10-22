@@ -32,7 +32,7 @@ Here’s a glimpse of the online shop in action:
 ![Product Display](screenshot1.png)  
 *This screenshot shows the product display with hover effects.*
 
-![Contact Form](screenshot2.png)  
+![Contact Form](screenshot3.png)  
 *This screenshot shows the contact form at the bottom of the page.*
 
 
